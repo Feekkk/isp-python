@@ -1,1 +1,1 @@
-print ("sayangg awak")
+print ("sayang awak ")
