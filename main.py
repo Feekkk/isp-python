@@ -1,0 +1,1 @@
+print ("sayangg awak")
